@@ -6,6 +6,5 @@ developers mentioned in their license files or the code itself.
 Have fun!
 
 ```
-html
-<h3>just a test</h3>
+<marquee>just a test</marquee>
 ```
